@@ -29,3 +29,6 @@ bin/
 .DS_Store
 
 agenda-poo.iml
+agenda-swing-poo.iml
+
+.idea/*
